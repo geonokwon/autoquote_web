@@ -1,0 +1,185 @@
+{
+  "title": "박)신민수 하이오더 포스기 cctvTV 추천견적",
+  "customerName": "추가견적",
+  "date": "[25.08.22]",
+  "timestamp": 1755854203557,
+  "selectedOptions": {
+    "cctv": [
+      {
+        "label": "I-view",
+        "quantity": 2,
+        "unitPrice": 18700,
+        "basePrice": 18700,
+        "prices": {
+          "1": 18700,
+          "2": 29700,
+          "3": 40700,
+          "4": 51700
+        },
+        "price": 29700,
+        "oneTimePayment": 0,
+        "benefits": {
+          "oneTimePayment": 0
+        }
+      }
+    ],
+    "pos": [
+      {
+        "label": "포스기세트(3년할부)",
+        "quantity": 1,
+        "unitPrice": 22000,
+        "basePrice": 22000,
+        "prices": {},
+        "price": 22000,
+        "oneTimePayment": 0,
+        "benefits": {
+          "oneTimePayment": 0
+        }
+      },
+      {
+        "label": "주방프린터(3년할부)",
+        "quantity": 2,
+        "unitPrice": 3300,
+        "basePrice": 3300,
+        "prices": {},
+        "price": 6600,
+        "oneTimePayment": 0,
+        "benefits": {
+          "oneTimePayment": 0
+        }
+      }
+    ],
+    "highorder": [
+      {
+        "label": "후불형",
+        "quantity": 8,
+        "unitPrice": 22000,
+        "basePrice": 22000,
+        "prices": {},
+        "price": 176000,
+        "oneTimePayment": 0,
+        "benefits": {
+          "oneTimePayment": 0
+        }
+      },
+      {
+        "label": "알림판(15인치)",
+        "quantity": 1,
+        "unitPrice": 24200,
+        "basePrice": 24200,
+        "prices": {},
+        "price": 24200,
+        "oneTimePayment": 0,
+        "benefits": {
+          "oneTimePayment": 0
+        }
+      }
+    ],
+    "smallBusinessBenefit": {
+      "label": "선택 안함"
+    },
+    "manual_discount": [
+      {
+        "label": "인터넷 결합할인",
+        "quantity": 1,
+        "unitPrice": 5500,
+        "basePrice": 5500,
+        "prices": {},
+        "price": -5500,
+        "oneTimePayment": 0,
+        "benefits": {
+          "oneTimePayment": 0
+        }
+      },
+      {
+        "tmpId": 1755838427404,
+        "label": "직접입력",
+        "quantity": 1,
+        "unitPrice": 5500,
+        "basePrice": 0,
+        "prices": {},
+        "price": -5500,
+        "oneTimePayment": 0,
+        "customLabel": "KT인터넷 하이오더 결합할인",
+        "benefits": {
+          "giftCard": 0,
+          "cash": 0,
+          "oneTimePayment": 0
+        }
+      }
+    ],
+    "extraBenefit": [],
+    "phone": [],
+    "tv": {
+      "label": "베이직 A (500M)",
+      "quantity": 1,
+      "unitPrice": 15400,
+      "basePrice": 15400,
+      "prices": {},
+      "price": 15400,
+      "oneTimePayment": 0,
+      "benefits": {
+        "oneTimePayment": 0
+      }
+    }
+  },
+  "manualInputs": {},
+  "selectedExtraBenefit": "",
+  "customGiftCard": 0,
+  "customCash": 0,
+  "isCardDiscountApplied": false,
+  "isBusiness": false,
+  "showSticker": true,
+  "stickerText": "<필수 숙지 사항>\n■ 본 견적서는 고객님께만 제공되는 전용자료로, 외부 공유 시 법적 책임이 발생할 수 있으니 유의 부탁드립니다.\n■ 사은품은 서비스개통후 익주 금요일 18시 이전에 정산후 문자안내 드립니다.\n■ 인터넷 :설치비는 일회성으로 첫달 요금에 합산되어 청구\n■ CCTV 난공사시 청구 : 층간공사, 벽타공, 선로길이 30M 이상 , 층고 3M 이상\n☎ 대표번호 1899-6484 (문자가능)",
+  "excludedCombos": [],
+  "originalTotal": 273900,
+  "discountTotal": -11000,
+  "finalTotal": 262900,
+  "productBenefits": {
+    "giftCard": 20000,
+    "cash": 720000,
+    "items": [
+      "CCTV 현금사은품 30,000원",
+      "TV 상품권 20,000원",
+      "TV 현금사은품 240,000원",
+      "후불형 (x8) 현금사은품 400,000원",
+      "알림판(15인치) 현금사은품 50,000원"
+    ],
+    "productBenefits": [
+      {
+        "title": "CCTV",
+        "label": "I-view",
+        "service": "cctv",
+        "giftCard": 0,
+        "cash": 30000
+      },
+      {
+        "title": "TV",
+        "service": "tv",
+        "giftCard": 20000,
+        "cash": 240000
+      },
+      {
+        "title": "후불형",
+        "service": "highorder",
+        "label": "후불형 (x8)",
+        "giftCard": 0,
+        "cash": 400000
+      },
+      {
+        "title": "알림판(15인치)",
+        "service": "highorder",
+        "label": "알림판(15인치)",
+        "giftCard": 0,
+        "cash": 50000
+      }
+    ]
+  },
+  "extraBenefits": {
+    "giftCard": 0,
+    "cash": 0,
+    "productBenefits": []
+  },
+  "comboDiscount": null,
+  "cardDiscounts": null
+}

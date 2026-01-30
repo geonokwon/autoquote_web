@@ -1,0 +1,195 @@
+{
+  "title": "박)남한솔 TV에센스1기가- CCTV제외-유선일반2",
+  "customerName": "고성버섯농장",
+  "date": "[25.09.15]",
+  "timestamp": 1757911891741,
+  "selectedOptions": {
+    "internet": [
+      {
+        "label": "1G",
+        "quantity": 1,
+        "unitPrice": 38500,
+        "basePrice": 38500,
+        "prices": {},
+        "price": 38500,
+        "oneTimePayment": 0,
+        "benefits": {
+          "oneTimePayment": 0
+        }
+      }
+    ],
+    "wifi": {
+      "label": "기본(무료)",
+      "quantity": 1,
+      "unitPrice": 0,
+      "basePrice": 0,
+      "prices": {},
+      "price": 0,
+      "oneTimePayment": 0,
+      "benefits": {
+        "oneTimePayment": 0
+      }
+    },
+    "tv": {
+      "label": "에센스 A (1G)",
+      "quantity": 1,
+      "unitPrice": 19800,
+      "basePrice": 19800,
+      "prices": {},
+      "price": 19800,
+      "oneTimePayment": 0,
+      "benefits": {
+        "oneTimePayment": 0
+      }
+    },
+    "phone": [
+      {
+        "label": "표준(일반)",
+        "quantity": 2,
+        "unitPrice": 4400,
+        "basePrice": 4400,
+        "prices": {},
+        "price": 8800,
+        "oneTimePayment": 0,
+        "benefits": {
+          "oneTimePayment": 0
+        }
+      }
+    ],
+    "cctv": [
+      {
+        "label": "직접입력",
+        "quantity": 1,
+        "unitPrice": 0,
+        "basePrice": 0,
+        "prices": {},
+        "price": 0,
+        "oneTimePayment": 0,
+        "customLabel": "CCTV 25대+출입통제 [텔레캅 현장견적금액을 참고해주세요]:20만제안",
+        "benefits": {
+          "oneTimePayment": 0
+        }
+      }
+    ],
+    "water": [],
+    "pos": [],
+    "smallBusinessBenefit": {
+      "label": "소상공인혜택",
+      "quantity": 1,
+      "unitPrice": 0,
+      "basePrice": 0,
+      "prices": {},
+      "price": 0,
+      "oneTimePayment": 0,
+      "benefits": {
+        "oneTimePayment": 0
+      }
+    },
+    "extraBenefit": [
+      {
+        "label": "CCTV 설치지원금 [15대이상~]",
+        "quantity": 1,
+        "unitPrice": 0,
+        "prices": {},
+        "price": 0,
+        "oneTimePayment": 0,
+        "customLabel": "CCTV 설치지원금 [25대]- 3배수/팀장님제안참조",
+        "benefits": {
+          "giftCard": 0,
+          "cash": 0
+        }
+      },
+      {
+        "tmpId": 1757911817403,
+        "label": "인터넷 포함 묶음혜택",
+        "quantity": 1,
+        "unitPrice": 0,
+        "basePrice": 0,
+        "prices": {},
+        "price": 0,
+        "oneTimePayment": 0,
+        "customLabel": "인터넷 포함 묶음혜택",
+        "benefits": {
+          "giftCard": 0,
+          "cash": 30000
+        }
+      }
+    ]
+  },
+  "manualInputs": {},
+  "selectedExtraBenefit": "",
+  "customGiftCard": 0,
+  "customCash": 0,
+  "isCardDiscountApplied": false,
+  "isBusiness": false,
+  "showSticker": true,
+  "stickerText": "<필수 숙지 사항>\n\n■ CCTV 월납부금은 KT텔레캅 팀장님 상담 견적후 제시된 금액을 참고하여 주시기 바랍니다\n\n■ 지니원 소상공인 혜택은 [사업자등록증] 첨부시에 지원됩니다.\n\n■ 본 견적서는 고객님께만 제공되는 전용자료로, 외부 공유시 법적 책임이 발생할 수 있으니 유의 부탁드립니다.\n\n■ 사은품은 서비스개통후 익주 금요일 18시 이전에 정산후 문자안내 드립니다.\n\n■ 인터넷 :설치비는 일회성으로 첫달 요금에 합산되어 청구\n\n■ CCTV 난공사시 청구 : 층간공사, 벽타공, 선로길이 30M 이상 , 층고 3M 이상\n\n☎ 대표번호 1899-6484 (문자가능)",
+  "excludedCombos": [],
+  "originalTotal": 67100,
+  "discountTotal": -5500,
+  "finalTotal": 61600,
+  "productBenefits": {
+    "giftCard": 100000,
+    "cash": 340000,
+    "items": [
+      "인터넷 상품권 50,000원",
+      "인터넷 현금사은품 100,000원",
+      "TV 상품권 50,000원",
+      "TV 현금사은품 210,000원",
+      "인터넷 포함 묶음혜택 현금사은품 30,000원"
+    ],
+    "productBenefits": [
+      {
+        "title": "인터넷",
+        "label": "1G",
+        "service": "internet",
+        "giftCard": 50000,
+        "cash": 100000
+      },
+      {
+        "title": "TV",
+        "service": "tv",
+        "giftCard": 50000,
+        "cash": 210000
+      },
+      {
+        "title": "인터넷 포함 묶음혜택",
+        "service": "extraBenefit",
+        "giftCard": 0,
+        "cash": 30000
+      }
+    ]
+  },
+  "extraBenefits": {
+    "giftCard": 0,
+    "cash": 86200,
+    "productBenefits": [
+      {
+        "key": "genieone_internet_tv",
+        "title": "지니원혜택 (인터넷+TV 설치지원)",
+        "service": "benefit",
+        "giftCard": 0,
+        "cash": 56200
+      },
+      {
+        "key": "genieone_smallBusinessBenefit",
+        "title": "지니원 소상공인 혜택",
+        "service": "benefit",
+        "giftCard": 0,
+        "cash": 30000
+      }
+    ]
+  },
+  "comboDiscount": {
+    "monthlyDiscount": 5500,
+    "benefits": {
+      "title": "결합 할인",
+      "giftCard": 0,
+      "cash": 0,
+      "items": [
+        "으랏차차 할인 (인터넷+TV) 5,500원"
+      ]
+    }
+  },
+  "cardDiscounts": null
+}

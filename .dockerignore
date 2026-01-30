@@ -1,0 +1,9 @@
+node_modules
+DB
+server/quotes
+.env
+.git
+.idea
+.vscode
+release
+dist 

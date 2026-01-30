@@ -1,0 +1,101 @@
+{
+  "title": "서울구의동 하이오더",
+  "customerName": "서울구의동",
+  "date": "[25.09.19]",
+  "timestamp": 1758273348484,
+  "selectedOptions": {
+    "internet": [],
+    "wifi": {
+      "label": "선택 안함"
+    },
+    "smallBusinessBenefit": {
+      "label": "선택 안함"
+    },
+    "tv": {
+      "label": "선택 안함"
+    },
+    "highorder": [
+      {
+        "label": "선불형",
+        "quantity": 40,
+        "unitPrice": 24200,
+        "basePrice": 24200,
+        "prices": {},
+        "price": 968000,
+        "oneTimePayment": 0,
+        "benefits": {
+          "oneTimePayment": 0
+        }
+      },
+      {
+        "label": "알림판(15인치)",
+        "quantity": 1,
+        "unitPrice": 24200,
+        "basePrice": 24200,
+        "prices": {},
+        "price": 24200,
+        "oneTimePayment": 0,
+        "benefits": {
+          "oneTimePayment": 0
+        }
+      }
+    ],
+    "manual_discount": [
+      {
+        "label": "인터넷 결합할인",
+        "quantity": 1,
+        "unitPrice": 5500,
+        "basePrice": 5500,
+        "prices": {},
+        "price": -5500,
+        "oneTimePayment": 0,
+        "benefits": {
+          "oneTimePayment": 0
+        }
+      }
+    ]
+  },
+  "manualInputs": {},
+  "selectedExtraBenefit": "",
+  "customGiftCard": 0,
+  "customCash": 0,
+  "isCardDiscountApplied": false,
+  "isBusiness": false,
+  "showSticker": true,
+  "stickerText": ">\n\n■ 하이오더 추가혜택\n\n▶신한은행제휴 80만원 / 배터리 1+1 추가지원 (대당4만원)\n▶배달이용시 : 배달의민족제휴 첫주문시 23만원/ 요기요(포인트) 20만원\n▶식욕자극 AI음식사진 무료 편집\n▶리뷰이벤트 배너제작\n▶홍보동영상 제작\n▶네이버플레이스 노출 셋팅\n▶OK포스기 시중가120만원 대비 60프로 할인지원(견적서 금액참조\n▶충전스테이션 제공  \n\n\n\n<필수 숙지 사항>\n■ 본 견적서는 고객님께만 제공되는 전용자료로, 외부 공유 시 법적 책임이 발생할 수 있으니 유의 부탁드립니다.\n■ 사은품은 서비스개통후 익주 금요일 18시 이전에 정산후 문자안내 드립니다.\n\n\n☎ 대표번호 1899-6484 (문자가능)",
+  "excludedCombos": [],
+  "originalTotal": 992200,
+  "discountTotal": -5500,
+  "finalTotal": 986700,
+  "productBenefits": {
+    "giftCard": 0,
+    "cash": 2050000,
+    "items": [
+      "선불형 (x40) 현금사은품 2,000,000원",
+      "알림판(15인치) 현금사은품 50,000원"
+    ],
+    "productBenefits": [
+      {
+        "title": "선불형",
+        "service": "highorder",
+        "label": "선불형 (x40)",
+        "giftCard": 0,
+        "cash": 2000000
+      },
+      {
+        "title": "알림판(15인치)",
+        "service": "highorder",
+        "label": "알림판(15인치)",
+        "giftCard": 0,
+        "cash": 50000
+      }
+    ]
+  },
+  "extraBenefits": {
+    "giftCard": 0,
+    "cash": 0,
+    "productBenefits": []
+  },
+  "comboDiscount": null,
+  "cardDiscounts": null
+}

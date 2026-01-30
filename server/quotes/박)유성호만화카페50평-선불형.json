@@ -1,0 +1,240 @@
+{
+  "title": "박)유성호 만화카페50평 -선불형",
+  "customerName": "선불형",
+  "date": "[25.09.23]",
+  "timestamp": 1758593689841,
+  "selectedOptions": {
+    "internet": [
+      {
+        "label": "패밀리 500M",
+        "quantity": 1,
+        "unitPrice": 33000,
+        "basePrice": 33000,
+        "prices": {},
+        "price": 33000,
+        "oneTimePayment": 0,
+        "benefits": {
+          "oneTimePayment": 0
+        }
+      }
+    ],
+    "wifi": {
+      "label": "기본",
+      "quantity": 1,
+      "unitPrice": 1100,
+      "basePrice": 1100,
+      "prices": {},
+      "price": 1100,
+      "oneTimePayment": 0,
+      "benefits": {
+        "oneTimePayment": 0
+      }
+    },
+    "phone": [
+      {
+        "label": "유무선 30",
+        "quantity": 1,
+        "unitPrice": 4950,
+        "basePrice": 4950,
+        "prices": {},
+        "price": 4950,
+        "oneTimePayment": 0,
+        "benefits": {
+          "oneTimePayment": 0
+        }
+      }
+    ],
+    "cctv": [
+      {
+        "label": "I-view",
+        "quantity": 4,
+        "unitPrice": 18700,
+        "basePrice": 18700,
+        "prices": {
+          "1": 18700,
+          "2": 29700,
+          "3": 40700,
+          "4": 51700
+        },
+        "price": 51700,
+        "oneTimePayment": 0,
+        "benefits": {
+          "oneTimePayment": 0
+        }
+      }
+    ],
+    "pos": [
+      {
+        "label": "포스기세트 + 주방프린터(렌탈)",
+        "quantity": 1,
+        "unitPrice": 19800,
+        "basePrice": 19800,
+        "prices": {},
+        "price": 19800,
+        "oneTimePayment": 0,
+        "benefits": {
+          "oneTimePayment": 0
+        }
+      }
+    ],
+    "highorder": [
+      {
+        "label": "선불형",
+        "quantity": 30,
+        "unitPrice": 24200,
+        "basePrice": 24200,
+        "prices": {},
+        "price": 726000,
+        "oneTimePayment": 0,
+        "benefits": {
+          "oneTimePayment": 0
+        }
+      },
+      {
+        "label": "알림판(15인치)",
+        "quantity": 1,
+        "unitPrice": 24200,
+        "basePrice": 24200,
+        "prices": {},
+        "price": 24200,
+        "oneTimePayment": 0,
+        "benefits": {
+          "oneTimePayment": 0
+        }
+      }
+    ],
+    "manual_discount": [
+      {
+        "label": "인터넷패밀리할인(500m)",
+        "quantity": 1,
+        "unitPrice": 11000,
+        "basePrice": 11000,
+        "prices": {},
+        "price": -11000,
+        "oneTimePayment": 0,
+        "benefits": {
+          "oneTimePayment": 0
+        }
+      }
+    ],
+    "smallBusinessBenefit": {
+      "label": "소상공인혜택",
+      "quantity": 1,
+      "unitPrice": 0,
+      "basePrice": 0,
+      "prices": {},
+      "price": 0,
+      "oneTimePayment": 0,
+      "benefits": {
+        "oneTimePayment": 0
+      }
+    }
+  },
+  "manualInputs": {},
+  "selectedExtraBenefit": "",
+  "customGiftCard": 0,
+  "customCash": 0,
+  "isCardDiscountApplied": false,
+  "isBusiness": false,
+  "showSticker": true,
+  "stickerText": "<필수 숙지 사항>\n■ 본 견적서는 고객님께만 제공되는 전용자료로, 외부 공유 시 법적 책임이 발생할 수 있으니 유의 부탁드립니다.\n■ 사은품은 서비스개통후 익주 금요일 18시 이전에 정산후 문자안내 드립니다.\n■ 인터넷 :설치비는 일회성으로 첫달 요금에 합산되어 청구\n■ 일반전화 :설치비는 일회성으로 첫달 요금에 합산되어 청구\n■ CCTV 난공사시 청구 : 층간공사, 벽타공, 선로길이 30M 이상 , 층고 3M 이상\n☎ 대표번호 1899-6484 (문자가능)",
+  "excludedCombos": [],
+  "originalTotal": 860750,
+  "discountTotal": -22000,
+  "finalTotal": 838750,
+  "productBenefits": {
+    "giftCard": 30000,
+    "cash": 1700000,
+    "items": [
+      "인터넷 상품권 30,000원",
+      "인터넷 현금사은품 100,000원",
+      "CCTV 현금사은품 50,000원",
+      "선불형 (x30) 현금사은품 1,500,000원",
+      "알림판(15인치) 현금사은품 50,000원"
+    ],
+    "productBenefits": [
+      {
+        "title": "인터넷",
+        "label": "패밀리 500M",
+        "service": "internet",
+        "giftCard": 30000,
+        "cash": 100000
+      },
+      {
+        "title": "CCTV",
+        "label": "I-view",
+        "service": "cctv",
+        "giftCard": 0,
+        "cash": 50000
+      },
+      {
+        "title": "선불형",
+        "service": "highorder",
+        "label": "선불형 (x30)",
+        "giftCard": 0,
+        "cash": 1500000
+      },
+      {
+        "title": "알림판(15인치)",
+        "service": "highorder",
+        "label": "알림판(15인치)",
+        "giftCard": 0,
+        "cash": 50000
+      }
+    ]
+  },
+  "extraBenefits": {
+    "giftCard": 0,
+    "cash": 226000,
+    "productBenefits": [
+      {
+        "key": "genieone_internet_highorder",
+        "title": "지니원혜택 (인터넷+하이오더)",
+        "service": "benefit",
+        "giftCard": 0,
+        "cash": 100000
+      },
+      {
+        "key": "genieone_internet",
+        "title": "지니원혜택 (인터넷설치지원)",
+        "service": "benefit",
+        "giftCard": 0,
+        "cash": 36000
+      },
+      {
+        "key": "genieone_internet_phone",
+        "title": "지니원혜택 (인터넷+전화)",
+        "service": "benefit",
+        "giftCard": 0,
+        "cash": 30000
+      },
+      {
+        "key": "genieone_internet_cctv",
+        "title": "지니원혜택 (인터넷+CCTV)",
+        "service": "benefit",
+        "giftCard": 0,
+        "cash": 30000
+      },
+      {
+        "key": "genieone_smallBusinessBenefit",
+        "title": "지니원 소상공인 혜택",
+        "service": "benefit",
+        "giftCard": 0,
+        "cash": 30000
+      }
+    ]
+  },
+  "comboDiscount": {
+    "monthlyDiscount": 11000,
+    "benefits": {
+      "title": "결합 할인",
+      "giftCard": 0,
+      "cash": 0,
+      "items": [
+        "텔레캅 할인 (인터넷 + 기가아이즈) 5,500원",
+        "매장솔루션 할인 (하이오더) 5,500원"
+      ]
+    }
+  },
+  "cardDiscounts": null
+}

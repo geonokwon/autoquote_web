@@ -1,0 +1,250 @@
+{
+  "title": "박)박우광 9월1일 -하이오더 인터넷1기가 와이파이 TV2대",
+  "customerName": "하이오더포함",
+  "date": "[25.09.01]",
+  "timestamp": 1756714952770,
+  "selectedOptions": {
+    "highorder": [
+      {
+        "label": "직접입력",
+        "quantity": 1,
+        "unitPrice": 338800,
+        "basePrice": 0,
+        "prices": {},
+        "price": 338800,
+        "oneTimePayment": 0,
+        "customLabel": "하이오더13+알림판1 [총14대/선불형 24,200X14대)",
+        "benefits": {
+          "oneTimePayment": 0
+        }
+      }
+    ],
+    "internet": [
+      {
+        "label": "1G",
+        "quantity": 1,
+        "unitPrice": 38500,
+        "basePrice": 38500,
+        "prices": {},
+        "price": 38500,
+        "oneTimePayment": 0,
+        "benefits": {
+          "oneTimePayment": 0
+        }
+      }
+    ],
+    "wifi": {
+      "label": "기본(무료)",
+      "quantity": 1,
+      "unitPrice": 0,
+      "basePrice": 0,
+      "prices": {},
+      "price": 0,
+      "oneTimePayment": 0,
+      "benefits": {
+        "oneTimePayment": 0
+      }
+    },
+    "tv": {
+      "label": "직접입력",
+      "quantity": 1,
+      "unitPrice": 25330,
+      "basePrice": 0,
+      "prices": {},
+      "price": 25330,
+      "oneTimePayment": 0,
+      "customLabel": "TV(1기가/베이직/ 1대 15,400원+ 1대추가설치: 9,930원)",
+      "benefits": {
+        "oneTimePayment": 0
+      }
+    },
+    "pos": [],
+    "cctv": [],
+    "water": [],
+    "smallBusinessBenefit": {
+      "label": "소상공인혜택",
+      "quantity": 1,
+      "unitPrice": 0,
+      "basePrice": 0,
+      "prices": {},
+      "price": 0,
+      "oneTimePayment": 0,
+      "benefits": {
+        "oneTimePayment": 0
+      }
+    },
+    "extraBenefit": [
+      {
+        "label": "TV(2대설치 지원금: 1기가베이직40만원+ 추가설치6만원)",
+        "quantity": 1,
+        "unitPrice": 0,
+        "prices": {},
+        "price": 0,
+        "oneTimePayment": 0,
+        "customLabel": "TV(2대설치 지원금: 1기가베이직40만원+ 추가설치6만원)",
+        "benefits": {
+          "giftCard": 40000,
+          "cash": 270000
+        }
+      },
+      {
+        "tmpId": 1756713522987,
+        "label": "하이오더+알림판 총14대 설치지원금",
+        "quantity": 1,
+        "unitPrice": 0,
+        "basePrice": 0,
+        "prices": {},
+        "price": 0,
+        "oneTimePayment": 0,
+        "customLabel": "하이오더+알림판 총14대 설치지원금",
+        "benefits": {
+          "giftCard": 0,
+          "cash": 1400000
+        }
+      },
+      {
+        "tmpId": 1756713764296,
+        "label": "인터넷+하이오더 묶음혜택",
+        "quantity": 1,
+        "unitPrice": 0,
+        "basePrice": 0,
+        "prices": {},
+        "price": 0,
+        "oneTimePayment": 0,
+        "customLabel": "인터넷+하이오더 묶음혜택",
+        "benefits": {
+          "giftCard": 0,
+          "cash": 100000
+        }
+      },
+      {
+        "tmpId": 1756714442786,
+        "label": "TV 설치비 지원",
+        "quantity": 1,
+        "unitPrice": 0,
+        "basePrice": 0,
+        "prices": {},
+        "price": 0,
+        "oneTimePayment": 0,
+        "customLabel": "TV 설치비 지원",
+        "benefits": {
+          "giftCard": 0,
+          "cash": 35600
+        }
+      }
+    ],
+    "manual_discount": [
+      {
+        "label": "인터넷 결합할인",
+        "quantity": 1,
+        "unitPrice": 5500,
+        "basePrice": 5500,
+        "prices": {},
+        "price": -5500,
+        "oneTimePayment": 0,
+        "benefits": {
+          "oneTimePayment": 0
+        }
+      },
+      {
+        "tmpId": 1756714073375,
+        "label": "직접입력",
+        "quantity": 1,
+        "unitPrice": 5500,
+        "basePrice": 0,
+        "prices": {},
+        "price": -5500,
+        "oneTimePayment": 0,
+        "customLabel": "매장솔루션할인[하이오더]",
+        "benefits": {
+          "giftCard": 0,
+          "cash": 0,
+          "oneTimePayment": 0
+        }
+      }
+    ],
+    "highorder_posOption_x": {
+      "label": "선택 안함"
+    }
+  },
+  "manualInputs": {},
+  "selectedExtraBenefit": "",
+  "customGiftCard": 0,
+  "customCash": 0,
+  "isCardDiscountApplied": false,
+  "isBusiness": false,
+  "showSticker": true,
+  "stickerText": "\n\n\n\n<필수 숙지 사항>  꼭 읽어주세요^^\n\n■ 본 견적서는 고객님께만 제공되는 전용자료로, 외부 공유 시 법적 책임이 발생할 수 있으니 유의 부탁드립니다.\n\n■ 지니원 소상공인 혜택은 [사업자등록증] 첨부시에 지원됩니다.\n\n■ 인터넷 : 설치비는 일회성으로 첫달 요금에 합산되어 청구[지니원현금지원-견적서참조]\n\n■ CCTV 난공사시 청구 : 층간공사, 벽타공, 선로길이 30M 이상 , 층고 3M 이상\n\n.■ 사은품은 서비스개통후 익주 금요일 18시 이전에 정산후 문자안내 드립니다.\n\n",
+  "excludedCombos": [],
+  "originalTotal": 402630,
+  "discountTotal": -11000,
+  "finalTotal": 391630,
+  "productBenefits": {
+    "giftCard": 90000,
+    "cash": 1905600,
+    "items": [
+      "인터넷 상품권 50,000원",
+      "인터넷 현금사은품 100,000원",
+      "TV(2대설치 지원금: 1기가베이직40만원+ 추가설치6만원) 상품권 40,000원",
+      "TV(2대설치 지원금: 1기가베이직40만원+ 추가설치6만원) 현금사은품 270,000원",
+      "하이오더+알림판 총14대 설치지원금 현금사은품 1,400,000원",
+      "인터넷+하이오더 묶음혜택 현금사은품 100,000원",
+      "TV 설치비 지원 현금사은품 35,600원"
+    ],
+    "productBenefits": [
+      {
+        "title": "인터넷",
+        "label": "1G",
+        "service": "internet",
+        "giftCard": 50000,
+        "cash": 100000
+      },
+      {
+        "title": "TV(2대설치 지원금: 1기가베이직40만원+ 추가설치6만원)",
+        "service": "extraBenefit",
+        "giftCard": 40000,
+        "cash": 270000
+      },
+      {
+        "title": "하이오더+알림판 총14대 설치지원금",
+        "service": "extraBenefit",
+        "giftCard": 0,
+        "cash": 1400000
+      },
+      {
+        "title": "인터넷+하이오더 묶음혜택",
+        "service": "extraBenefit",
+        "giftCard": 0,
+        "cash": 100000
+      },
+      {
+        "title": "TV 설치비 지원",
+        "service": "extraBenefit",
+        "giftCard": 0,
+        "cash": 35600
+      }
+    ]
+  },
+  "extraBenefits": {
+    "giftCard": 0,
+    "cash": 66000,
+    "productBenefits": [
+      {
+        "key": "genieone_internet",
+        "title": "지니원혜택 (인터넷설치지원)",
+        "service": "benefit",
+        "giftCard": 0,
+        "cash": 36000
+      },
+      {
+        "key": "genieone_smallBusinessBenefit",
+        "title": "지니원 소상공인 혜택",
+        "service": "benefit",
+        "giftCard": 0,
+        "cash": 30000
+      }
+    ]
+  },
+  "comboDiscount": null,
+  "cardDiscounts": null
+}

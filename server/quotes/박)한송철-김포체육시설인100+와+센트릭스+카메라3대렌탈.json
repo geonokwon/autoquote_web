@@ -1,0 +1,176 @@
+{
+  "title": "박)한송철-김포체육시설 인100+와+센트릭스+카메라3대렌탈",
+  "customerName": "100메가",
+  "date": "[25.07.18]",
+  "timestamp": 1752824364255,
+  "selectedOptions": {
+    "internet": [
+      {
+        "label": "패밀리 100M",
+        "quantity": 1,
+        "unitPrice": 22000,
+        "basePrice": 22000,
+        "prices": {},
+        "price": 22000,
+        "oneTimePayment": 0,
+        "benefits": {
+          "oneTimePayment": 0
+        }
+      }
+    ],
+    "wifi": {
+      "label": "기본",
+      "quantity": 1,
+      "unitPrice": 1100,
+      "basePrice": 1100,
+      "prices": {},
+      "price": 1100,
+      "oneTimePayment": 0,
+      "benefits": {
+        "oneTimePayment": 0
+      }
+    },
+    "phone": [
+      {
+        "label": "표준(센트릭스)",
+        "quantity": 1,
+        "unitPrice": 2750,
+        "basePrice": 2750,
+        "prices": {},
+        "price": 2750,
+        "oneTimePayment": 0,
+        "benefits": {
+          "oneTimePayment": 0
+        }
+      }
+    ],
+    "cctv": [
+      {
+        "label": "I-view",
+        "quantity": 3,
+        "unitPrice": 18700,
+        "basePrice": 18700,
+        "prices": {
+          "1": 18700,
+          "2": 29700,
+          "3": 40700,
+          "4": 51700
+        },
+        "price": 40700,
+        "oneTimePayment": 0,
+        "benefits": {
+          "oneTimePayment": 0
+        }
+      }
+    ],
+    "manual_discount": [
+      {
+        "label": "인터넷 결합할인",
+        "quantity": 1,
+        "unitPrice": 5500,
+        "basePrice": 5500,
+        "prices": {},
+        "price": -5500,
+        "oneTimePayment": 0,
+        "benefits": {
+          "oneTimePayment": 0
+        }
+      }
+    ],
+    "smallBusinessBenefit": {
+      "label": "소상공인혜택",
+      "quantity": 1,
+      "unitPrice": 0,
+      "basePrice": 0,
+      "prices": {},
+      "price": 0,
+      "oneTimePayment": 0,
+      "benefits": {
+        "oneTimePayment": 0
+      }
+    }
+  },
+  "manualInputs": {},
+  "selectedExtraBenefit": "",
+  "customGiftCard": 0,
+  "customCash": 0,
+  "isCardDiscountApplied": false,
+  "isBusiness": false,
+  "showSticker": true,
+  "stickerText": "<필수 숙지 사항> 꼭 읽어주세요^^\n\n\n■ 사업자전용전화 센트릭스- 발신자번호표시 원할시 1,100원 추가됩니다\n\n\n■ 인터넷 :설치비는 일회성으로 첫달 요금에 합산되어 청구- 지니원에서 지원해드립니다 (견적서참조)\n\n■ CCTV 설치비  : 층간공사, 벽타공, 선로길이 30M 이상 , 층고 3M 이상의 위치에 설치시 설치비가 청구됩니다.\n\n\n■ 본 견적서는 고객님께만 제공되는 전용자료로, 외부 공유 시 법적 책임이 발생할 수 있으니 유의 부탁드립니다.\n\n■ 사은품은 서비스개통후 익주 금요일 18시 이전에 정산후 문자안내 드립니다.\n\n☎ 대표번호 1899-6484 (문자가능)\n",
+  "excludedCombos": [],
+  "originalTotal": 66550,
+  "discountTotal": -11000,
+  "finalTotal": 55550,
+  "productBenefits": {
+    "giftCard": 30000,
+    "cash": 100000,
+    "items": [
+      "인터넷 상품권 30,000원",
+      "인터넷 현금사은품 50,000원",
+      "CCTV 현금사은품 50,000원"
+    ],
+    "productBenefits": [
+      {
+        "title": "인터넷",
+        "label": "패밀리 100M",
+        "service": "internet",
+        "giftCard": 30000,
+        "cash": 50000
+      },
+      {
+        "title": "CCTV",
+        "label": "I-view",
+        "service": "cctv",
+        "giftCard": 0,
+        "cash": 50000
+      }
+    ]
+  },
+  "extraBenefits": {
+    "giftCard": 0,
+    "cash": 126000,
+    "productBenefits": [
+      {
+        "key": "genieone_internet",
+        "title": "지니원혜택 (인터넷설치지원)",
+        "service": "benefit",
+        "giftCard": 0,
+        "cash": 36000
+      },
+      {
+        "key": "genieone_internet_phone",
+        "title": "지니원혜택 (인터넷+전화)",
+        "service": "benefit",
+        "giftCard": 0,
+        "cash": 30000
+      },
+      {
+        "key": "genieone_internet_cctv",
+        "title": "지니원혜택 (인터넷+CCTV)",
+        "service": "benefit",
+        "giftCard": 0,
+        "cash": 30000
+      },
+      {
+        "key": "genieone_smallBusinessBenefit",
+        "title": "지니원 소상공인 혜택",
+        "service": "benefit",
+        "giftCard": 0,
+        "cash": 30000
+      }
+    ]
+  },
+  "comboDiscount": {
+    "monthlyDiscount": 5500,
+    "benefits": {
+      "title": "결합 할인",
+      "giftCard": 0,
+      "cash": 0,
+      "items": [
+        "패밀리 할인 (인터넷 100M) 5,500원"
+      ]
+    }
+  },
+  "cardDiscounts": null
+}

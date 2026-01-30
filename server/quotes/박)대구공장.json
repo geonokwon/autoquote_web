@@ -1,0 +1,65 @@
+{
+  "title": "박)대구공장",
+  "customerName": "대구/공장",
+  "date": "[25.07.03]",
+  "timestamp": 1751501704458,
+  "selectedOptions": {
+    "cctv": [
+      {
+        "label": "구매형 200만",
+        "quantity": 6,
+        "unitPrice": 27500,
+        "basePrice": 27500,
+        "prices": {
+          "2": 33000,
+          "3": 38500,
+          "4": 44000,
+          "5": 55000,
+          "6": 60500,
+          "7": 66000,
+          "8": 71500
+        },
+        "price": 60500,
+        "oneTimePayment": 0,
+        "benefits": {
+          "oneTimePayment": 0
+        }
+      }
+    ]
+  },
+  "manualInputs": {},
+  "selectedExtraBenefit": "",
+  "customGiftCard": 0,
+  "customCash": 0,
+  "isCardDiscountApplied": false,
+  "isBusiness": false,
+  "showSticker": true,
+  "stickerText": "<필수 숙지 사항>\n■ 본 견적서는 고객님께만 제공되는 전용자료로, 외부 공유 시 법적 책임이 발생할 수 있으니 유의 부탁드립니다.\n■ 사은품은 서비스개통후 익주 금요일 18시 이전에 정산후 문자안내 드립니다.\n■ 인터넷설치고객님 :설치비는 일회성으로 첫달 요금에 합산되어 청구됩니다.\n■ CCTV 난공사시 설치비가 청구될수 있습니다. : 층간공사, 벽타공, 선로길이 30M 이상 , 층고 3M 이상위치에 설치시\n☎ 대표번호 1899-6484 (문자가능)",
+  "excludedCombos": [],
+  "originalTotal": 60500,
+  "discountTotal": 0,
+  "finalTotal": 60500,
+  "productBenefits": {
+    "giftCard": 0,
+    "cash": 100000,
+    "items": [
+      "CCTV 현금사은품 100,000원"
+    ],
+    "productBenefits": [
+      {
+        "title": "CCTV",
+        "label": "구매형 200만",
+        "service": "cctv",
+        "giftCard": 0,
+        "cash": 100000
+      }
+    ]
+  },
+  "extraBenefits": {
+    "giftCard": 0,
+    "cash": 0,
+    "productBenefits": []
+  },
+  "comboDiscount": null,
+  "cardDiscounts": null
+}

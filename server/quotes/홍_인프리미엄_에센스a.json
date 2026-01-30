@@ -1,0 +1,131 @@
+{
+  "title": "홍_인 프리미엄_에센스a",
+  "customerName": "",
+  "date": "[25.08.06]",
+  "timestamp": 1754461539480,
+  "selectedOptions": {
+    "internet": [
+      {
+        "label": "직접입력",
+        "quantity": 1,
+        "unitPrice": 44000,
+        "basePrice": 0,
+        "prices": {},
+        "price": 44000,
+        "oneTimePayment": 0,
+        "customLabel": "인터넷프리미엄",
+        "benefits": {
+          "oneTimePayment": 0
+        }
+      }
+    ],
+    "wifi": {
+      "label": "기본(무료)",
+      "quantity": 1,
+      "unitPrice": 0,
+      "basePrice": 0,
+      "prices": {},
+      "price": 0,
+      "oneTimePayment": 0,
+      "benefits": {
+        "oneTimePayment": 0
+      }
+    },
+    "tv": {
+      "label": "직접입력",
+      "quantity": 1,
+      "unitPrice": 19800,
+      "basePrice": 0,
+      "prices": {},
+      "price": 19800,
+      "oneTimePayment": 0,
+      "customLabel": "에센스 A (1G)_",
+      "benefits": {
+        "oneTimePayment": 0
+      }
+    },
+    "manual_discount": [
+      {
+        "label": "인터넷 결합할인",
+        "quantity": 1,
+        "unitPrice": 5500,
+        "basePrice": 5500,
+        "prices": {},
+        "price": -5500,
+        "oneTimePayment": 0,
+        "benefits": {
+          "oneTimePayment": 0
+        }
+      }
+    ],
+    "smallBusinessBenefit": {
+      "label": "소상공인혜택",
+      "quantity": 1,
+      "unitPrice": 0,
+      "basePrice": 0,
+      "prices": {},
+      "price": 0,
+      "oneTimePayment": 0,
+      "benefits": {
+        "oneTimePayment": 0
+      }
+    },
+    "extraBenefit": [
+      {
+        "label": "인터넷+TV설치비",
+        "quantity": 1,
+        "unitPrice": 0,
+        "prices": {},
+        "price": 0,
+        "oneTimePayment": 0,
+        "customLabel": "인터넷+TV설치비",
+        "benefits": {
+          "giftCard": 0,
+          "cash": 56200
+        }
+      }
+    ]
+  },
+  "manualInputs": {},
+  "selectedExtraBenefit": "",
+  "customGiftCard": 0,
+  "customCash": 0,
+  "isCardDiscountApplied": false,
+  "isBusiness": false,
+  "showSticker": true,
+  "stickerText": "<필수 숙지 사항>\n■ 삼성65인치 또는 LG65인치 TV사은품 제공 / 벽걸이희망시 삼성은 5만원, LG는 무료\n■ 본 견적서는 고객님께만 제공되는 전용자료로, 외부 공유 시 법적 책임이 발생할 수 있으니 유의 부탁드립니다.\n■ 사은품은 서비스개통후 익주 금요일 18시 이전에 정산후 문자안내 드립니다.\n■ 설치비는 일회성으로 첫달 요금에 합산되어 청구\n■ CCTV 난공사시 청구 : 층간공사, 벽타공, 선로길이 30M 이상 , 층고 3M 이상\n☎ 대표번호 1899-6484 (문자가능)",
+  "excludedCombos": [],
+  "originalTotal": 63800,
+  "discountTotal": -5500,
+  "finalTotal": 58300,
+  "productBenefits": {
+    "giftCard": 0,
+    "cash": 56200,
+    "items": [
+      "인터넷+TV설치비 현금사은품 56,200원"
+    ],
+    "productBenefits": [
+      {
+        "title": "인터넷+TV설치비",
+        "service": "extraBenefit",
+        "giftCard": 0,
+        "cash": 56200
+      }
+    ]
+  },
+  "extraBenefits": {
+    "giftCard": 0,
+    "cash": 30000,
+    "productBenefits": [
+      {
+        "key": "genieone_smallBusinessBenefit",
+        "title": "지니원 소상공인 혜택",
+        "service": "benefit",
+        "giftCard": 0,
+        "cash": 30000
+      }
+    ]
+  },
+  "comboDiscount": null,
+  "cardDiscounts": null
+}

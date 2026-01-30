@@ -1,0 +1,26 @@
+version: '3.9'
+
+services:
+  backend:
+    build:
+      context: .
+      dockerfile: Dockerfile.backend
+    restart: unless-stopped
+    environment:
+      - NODE_ENV=production
+    volumes:
+      - ./DB:/app/DB
+      - ./server/quotes:/app/server/quotes
+    ports:
+      - '8009:4000'
+
+  frontend:
+    image: nginx:1.27-alpine
+    depends_on:
+      - backend
+    restart: unless-stopped
+    ports:
+      - '8010:80'
+    volumes:
+      - ./dist:/usr/share/nginx/html:ro
+      - ./nginx/default.conf:/etc/nginx/conf.d/default.conf:ro

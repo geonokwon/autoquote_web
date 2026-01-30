@@ -1,0 +1,106 @@
+{
+  "title": "박)원주고깃집 홀60평 리모델링중 (21일)=포스기",
+  "customerName": "원주/고깃집",
+  "date": "[25.09.12]",
+  "timestamp": 1757666380560,
+  "selectedOptions": {
+    "internet": [],
+    "highorder": [
+      {
+        "label": "후불형",
+        "quantity": 23,
+        "unitPrice": 22000,
+        "basePrice": 22000,
+        "prices": {},
+        "price": 506000,
+        "oneTimePayment": 0,
+        "benefits": {
+          "oneTimePayment": 0
+        }
+      },
+      {
+        "label": "알림판(15인치)",
+        "quantity": 1,
+        "unitPrice": 24200,
+        "basePrice": 24200,
+        "prices": {},
+        "price": 24200,
+        "oneTimePayment": 0,
+        "benefits": {
+          "oneTimePayment": 0
+        }
+      }
+    ],
+    "manual_discount": [
+      {
+        "label": "인터넷 결합할인",
+        "quantity": 1,
+        "unitPrice": 5500,
+        "basePrice": 5500,
+        "prices": {},
+        "price": -5500,
+        "oneTimePayment": 0,
+        "benefits": {
+          "oneTimePayment": 0
+        }
+      }
+    ],
+    "pos": [
+      {
+        "label": "포스기세트 + 주방프린터(렌탈)",
+        "quantity": 1,
+        "unitPrice": 19800,
+        "basePrice": 19800,
+        "prices": {},
+        "price": 19800,
+        "oneTimePayment": 0,
+        "benefits": {
+          "oneTimePayment": 0
+        }
+      }
+    ]
+  },
+  "manualInputs": {},
+  "selectedExtraBenefit": "",
+  "customGiftCard": 0,
+  "customCash": 0,
+  "isCardDiscountApplied": false,
+  "isBusiness": false,
+  "showSticker": true,
+  "stickerText": "\n\n\n\n\n\n\n\n\n\n\n■하이오더 추가혜택\n\n▶신한은행제휴 80만원 / \n  배터리 1+1 추가지원 (대당4만원)\n\n▶배달이용시 : 배달의민족제휴 첫주문시 23만원\n               요기요(포인트) 20만원\n\n▶식욕자극 AI음식사진 무료 편집\n▶리뷰이벤트 배너제작\n▶홍보동영상 제작\n▶네이버플레이스 노출 셋팅\n▶충전 스테이션 제공 \n\n\n\n<필수 숙지 사항>\n\n■ 본 견적서는 고객님께만 제공되는 전용자료로, 외부 공유 시 법적 책임이 발생할 수 있으니 유의 부탁드립니다.\n■ 사은품은 서비스개통후 익주 금요일 18시 이전에 정산후 문자안내 드립니다.\n■ 인터넷 :설치비는 일회성으로 첫달 요금에 합산되어 청구\n■ CCTV 난공사시 청구 : 층간공사, 벽타공, 선로길이 30M 이상 , 층고 3M 이상\n\n☎ 대표번호 1899-6484 (문자가능)\n",
+  "excludedCombos": [],
+  "originalTotal": 550000,
+  "discountTotal": -5500,
+  "finalTotal": 544500,
+  "productBenefits": {
+    "giftCard": 0,
+    "cash": 1200000,
+    "items": [
+      "후불형 (x23) 현금사은품 1,150,000원",
+      "알림판(15인치) 현금사은품 50,000원"
+    ],
+    "productBenefits": [
+      {
+        "title": "후불형",
+        "service": "highorder",
+        "label": "후불형 (x23)",
+        "giftCard": 0,
+        "cash": 1150000
+      },
+      {
+        "title": "알림판(15인치)",
+        "service": "highorder",
+        "label": "알림판(15인치)",
+        "giftCard": 0,
+        "cash": 50000
+      }
+    ]
+  },
+  "extraBenefits": {
+    "giftCard": 0,
+    "cash": 0,
+    "productBenefits": []
+  },
+  "comboDiscount": null,
+  "cardDiscounts": null
+}

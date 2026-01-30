@@ -1,0 +1,163 @@
+{
+  "title": "홍)오1기가+전화",
+  "customerName": "",
+  "date": "[25.07.30]",
+  "timestamp": 1753863965803,
+  "selectedOptions": {
+    "internet": [
+      {
+        "label": "오피스 1G",
+        "quantity": 1,
+        "unitPrice": 49500,
+        "basePrice": 49500,
+        "prices": {},
+        "price": 49500,
+        "oneTimePayment": 0,
+        "benefits": {
+          "oneTimePayment": 0
+        }
+      }
+    ],
+    "wifi": {
+      "label": "직접입력",
+      "quantity": 1,
+      "unitPrice": 0,
+      "basePrice": 0,
+      "prices": {},
+      "price": 0,
+      "oneTimePayment": 0,
+      "customLabel": "와이파이 대수추가마다 1,100씩 요금부과예정",
+      "benefits": {
+        "oneTimePayment": 0
+      }
+    },
+    "phone": [
+      {
+        "label": "유무선 30",
+        "quantity": 1,
+        "unitPrice": 4950,
+        "basePrice": 4950,
+        "prices": {},
+        "price": 4950,
+        "oneTimePayment": 0,
+        "benefits": {
+          "oneTimePayment": 0
+        }
+      },
+      {
+        "label": "직접입력",
+        "quantity": 1,
+        "unitPrice": 19250,
+        "basePrice": 0,
+        "prices": {},
+        "price": 19250,
+        "oneTimePayment": 0,
+        "customLabel": "표준(센트릭스) 7대",
+        "benefits": {
+          "oneTimePayment": 0
+        }
+      }
+    ],
+    "smallBusinessBenefit": {
+      "label": "소상공인혜택",
+      "quantity": 1,
+      "unitPrice": 0,
+      "basePrice": 0,
+      "prices": {},
+      "price": 0,
+      "oneTimePayment": 0,
+      "benefits": {
+        "oneTimePayment": 0
+      }
+    },
+    "extraBenefit": [
+      {
+        "label": "전화가입시 ",
+        "quantity": 1,
+        "unitPrice": 0,
+        "prices": {},
+        "price": 0,
+        "oneTimePayment": 0,
+        "customLabel": "전화가입시 ",
+        "benefits": {
+          "giftCard": 0,
+          "cash": 30000
+        }
+      }
+    ]
+  },
+  "manualInputs": {},
+  "selectedExtraBenefit": "",
+  "customGiftCard": 0,
+  "customCash": 0,
+  "isCardDiscountApplied": false,
+  "isBusiness": false,
+  "showSticker": true,
+  "stickerText": "<필수 숙지 사항>\n■ 일반전화1대 개통후 센트릭스로 번호이동(일반전화설치비 32,000원/번호이동수수료2,000원)\n■ 본 견적서는 고객님께만 제공되는 전용자료로, 외부 공유 시 법적 책임이 발생할 수 있으니 유의 부탁드립니다.\n■ 사은품은 서비스개통후 익주 금요일 18시 이전에 정산후 문자안내 드립니다.\n■ 설치비는 일회성으로 첫달 요금에 합산되어 청구\n☎ 대표번호 1899-6484 (문자가능)",
+  "excludedCombos": [],
+  "originalTotal": 73700,
+  "discountTotal": -2200,
+  "finalTotal": 71500,
+  "productBenefits": {
+    "giftCard": 0,
+    "cash": 130000,
+    "items": [
+      "인터넷 현금사은품 100,000원",
+      "전화가입시  현금사은품 30,000원"
+    ],
+    "productBenefits": [
+      {
+        "title": "인터넷",
+        "label": "오피스 1G",
+        "service": "internet",
+        "giftCard": 0,
+        "cash": 100000
+      },
+      {
+        "title": "전화가입시 ",
+        "service": "extraBenefit",
+        "giftCard": 0,
+        "cash": 30000
+      }
+    ]
+  },
+  "extraBenefits": {
+    "giftCard": 0,
+    "cash": 96000,
+    "productBenefits": [
+      {
+        "key": "genieone_internet",
+        "title": "지니원혜택 (인터넷설치지원)",
+        "service": "benefit",
+        "giftCard": 0,
+        "cash": 36000
+      },
+      {
+        "key": "genieone_internet_phone",
+        "title": "지니원혜택 (인터넷+전화)",
+        "service": "benefit",
+        "giftCard": 0,
+        "cash": 30000
+      },
+      {
+        "key": "genieone_smallBusinessBenefit",
+        "title": "지니원 소상공인 혜택",
+        "service": "benefit",
+        "giftCard": 0,
+        "cash": 30000
+      }
+    ]
+  },
+  "comboDiscount": {
+    "monthlyDiscount": 2200,
+    "benefits": {
+      "title": "결합 할인",
+      "giftCard": 0,
+      "cash": 0,
+      "items": [
+        "으랏차차 할인 (인터넷 + 전화) 2,200원"
+      ]
+    }
+  },
+  "cardDiscounts": null
+}

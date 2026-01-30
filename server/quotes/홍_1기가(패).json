@@ -1,0 +1,121 @@
+{
+  "title": "홍_1기가(패)",
+  "customerName": "",
+  "date": "[25.06.24]",
+  "timestamp": 1750726801834,
+  "selectedOptions": {
+    "internet": [
+      {
+        "label": "패밀리 1G",
+        "quantity": 1,
+        "unitPrice": 27500,
+        "basePrice": 27500,
+        "prices": {},
+        "price": 27500,
+        "oneTimePayment": 0,
+        "benefits": {
+          "oneTimePayment": 0
+        }
+      }
+    ],
+    "wifi": {
+      "label": "기본(무료)",
+      "quantity": 1,
+      "unitPrice": 0,
+      "basePrice": 0,
+      "prices": {},
+      "price": 0,
+      "oneTimePayment": 0,
+      "benefits": {
+        "oneTimePayment": 0
+      }
+    },
+    "smallBusinessBenefit": {
+      "label": "소상공인혜택",
+      "quantity": 1,
+      "unitPrice": 0,
+      "basePrice": 0,
+      "prices": {},
+      "price": 0,
+      "oneTimePayment": 0,
+      "benefits": {
+        "oneTimePayment": 0
+      }
+    },
+    "extraBenefit": [
+      {
+        "label": "인터넷+CCTV3대 동시진행",
+        "quantity": 1,
+        "unitPrice": 0,
+        "prices": {},
+        "price": 0,
+        "oneTimePayment": 0,
+        "customLabel": "인터넷+CCTV3대 동시진행",
+        "benefits": {
+          "giftCard": 0,
+          "cash": 80000
+        }
+      }
+    ]
+  },
+  "manualInputs": {},
+  "selectedExtraBenefit": "",
+  "customGiftCard": 0,
+  "customCash": 0,
+  "isCardDiscountApplied": false,
+  "isBusiness": false,
+  "showSticker": true,
+  "stickerText": "<필수 숙지 사항>\n■ 본 견적서는 고객님께만 제공되는 전용자료로, 외부 공유 시 법적 책임이 발생할 수 있으니 유의 부탁드립니다.\n■ 사은품은 서비스개통후 익주 금요일 18시 이전에 정산후 문자안내 드립니다.\n■ 인터넷 :설치비는 일회성으로 첫달 요금에 합산되어 청구\n☎ 대표번호 1899-6484 (문자가능)",
+  "excludedCombos": [
+    "family_1G"
+  ],
+  "originalTotal": 27500,
+  "discountTotal": 0,
+  "finalTotal": 27500,
+  "productBenefits": {
+    "giftCard": 30000,
+    "cash": 180000,
+    "items": [
+      "인터넷 상품권 30,000원",
+      "인터넷 현금사은품 100,000원",
+      "인터넷+CCTV3대 동시진행 현금사은품 80,000원"
+    ],
+    "productBenefits": [
+      {
+        "title": "인터넷",
+        "label": "패밀리 1G",
+        "service": "internet",
+        "giftCard": 30000,
+        "cash": 100000
+      },
+      {
+        "title": "인터넷+CCTV3대 동시진행",
+        "service": "extraBenefit",
+        "giftCard": 0,
+        "cash": 80000
+      }
+    ]
+  },
+  "extraBenefits": {
+    "giftCard": 0,
+    "cash": 66000,
+    "productBenefits": [
+      {
+        "key": "genieone_internet",
+        "title": "지니원혜택 (인터넷설치지원)",
+        "service": "benefit",
+        "giftCard": 0,
+        "cash": 36000
+      },
+      {
+        "key": "genieone_smallBusinessBenefit",
+        "title": "지니원 소상공인 혜택",
+        "service": "benefit",
+        "giftCard": 0,
+        "cash": 30000
+      }
+    ]
+  },
+  "comboDiscount": null,
+  "cardDiscounts": null
+}

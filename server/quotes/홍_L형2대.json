@@ -1,0 +1,72 @@
+{
+  "title": "홍_L형2대",
+  "customerName": "",
+  "date": "[25.06.30]",
+  "timestamp": 1751257613756,
+  "selectedOptions": {
+    "cctv": [
+      {
+        "label": "L형 렌탈형2대",
+        "quantity": 1,
+        "unitPrice": 30800,
+        "basePrice": 0,
+        "prices": {},
+        "price": 30800,
+        "oneTimePayment": 0,
+        "customLabel": "L형 렌탈형2대",
+        "benefits": {
+          "oneTimePayment": 0
+        }
+      }
+    ],
+    "extraBenefit": [
+      {
+        "label": "cctv2대 지원금",
+        "quantity": 1,
+        "unitPrice": 0,
+        "prices": {},
+        "price": 0,
+        "oneTimePayment": 0,
+        "customLabel": "cctv2대 지원금",
+        "benefits": {
+          "giftCard": 0,
+          "cash": 30000
+        }
+      }
+    ]
+  },
+  "manualInputs": {},
+  "selectedExtraBenefit": "",
+  "customGiftCard": 0,
+  "customCash": 0,
+  "isCardDiscountApplied": false,
+  "isBusiness": false,
+  "showSticker": true,
+  "stickerText": "<필수 숙지 사항>\n■ CCTV 2대 200만화소 / 저장기간 약27일\n■ 본 견적서는 고객님께만 제공되는 전용자료로, 외부 공유 시 법적 책임이 발생할 수 있으니 유의 부탁드립니다.\n■ 사은품은 서비스개통후 익주 금요일 18시 이전에 정산후 문자안내 드립니다.\n■ CCTV 난공사시 청구 : 층간공사, 벽타공, 선로길이 30M 이상 , 층고 3M 이상\n☎ 대표번호 1899-6484 (문자가능)",
+  "excludedCombos": [],
+  "originalTotal": 30800,
+  "discountTotal": 0,
+  "finalTotal": 30800,
+  "productBenefits": {
+    "giftCard": 0,
+    "cash": 30000,
+    "items": [
+      "cctv2대 지원금 현금사은품 30,000원"
+    ],
+    "productBenefits": [
+      {
+        "title": "cctv2대 지원금",
+        "service": "extraBenefit",
+        "giftCard": 0,
+        "cash": 30000
+      }
+    ]
+  },
+  "extraBenefits": {
+    "giftCard": 0,
+    "cash": 0,
+    "productBenefits": []
+  },
+  "comboDiscount": null,
+  "cardDiscounts": null
+}

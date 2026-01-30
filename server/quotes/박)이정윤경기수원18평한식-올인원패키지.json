@@ -1,0 +1,199 @@
+{
+  "title": "박)이정윤 경기수원 18평한식-올인원패키지",
+  "customerName": "올인원패키지",
+  "date": "[25.08.29]",
+  "timestamp": 1756448263555,
+  "selectedOptions": {
+    "highorder": [
+      {
+        "label": "후불형",
+        "quantity": 10,
+        "unitPrice": 22000,
+        "basePrice": 22000,
+        "prices": {},
+        "price": 220000,
+        "oneTimePayment": 0,
+        "benefits": {
+          "oneTimePayment": 0
+        }
+      },
+      {
+        "label": "알림판(15인치)",
+        "quantity": 1,
+        "unitPrice": 24200,
+        "basePrice": 24200,
+        "prices": {},
+        "price": 24200,
+        "oneTimePayment": 0,
+        "benefits": {
+          "oneTimePayment": 0
+        }
+      }
+    ],
+    "manual_discount": [
+      {
+        "label": "인터넷 결합할인",
+        "quantity": 1,
+        "unitPrice": 5500,
+        "basePrice": 5500,
+        "prices": {},
+        "price": -5500,
+        "oneTimePayment": 0,
+        "benefits": {
+          "oneTimePayment": 0
+        }
+      }
+    ],
+    "pos": [
+      {
+        "label": "포스기세트(3년할부)",
+        "quantity": 1,
+        "unitPrice": 22000,
+        "basePrice": 22000,
+        "prices": {},
+        "price": 22000,
+        "oneTimePayment": 0,
+        "benefits": {
+          "oneTimePayment": 0
+        }
+      },
+      {
+        "label": "주방프린터(3년할부)",
+        "quantity": 1,
+        "unitPrice": 3300,
+        "basePrice": 3300,
+        "prices": {},
+        "price": 3300,
+        "oneTimePayment": 0,
+        "benefits": {
+          "oneTimePayment": 0
+        }
+      }
+    ],
+    "internet": [],
+    "wifi": {
+      "label": "선택 안함"
+    },
+    "tv": {
+      "label": "선택 안함"
+    },
+    "phone": [
+      {
+        "label": "유무선 30",
+        "quantity": 1,
+        "unitPrice": 4950,
+        "basePrice": 4950,
+        "prices": {},
+        "price": 4950,
+        "oneTimePayment": 0,
+        "benefits": {
+          "oneTimePayment": 0
+        }
+      }
+    ],
+    "cctv": [
+      {
+        "label": "I-view",
+        "quantity": 3,
+        "unitPrice": 18700,
+        "basePrice": 18700,
+        "prices": {
+          "1": 18700,
+          "2": 29700,
+          "3": 40700,
+          "4": 51700
+        },
+        "price": 40700,
+        "oneTimePayment": 0,
+        "benefits": {
+          "oneTimePayment": 0
+        }
+      }
+    ],
+    "water": [
+      {
+        "label": "쿠쿠 5년 (스텐드 탁상형 공용)",
+        "quantity": 1,
+        "unitPrice": 15900,
+        "basePrice": 15900,
+        "prices": {},
+        "price": 15900,
+        "oneTimePayment": 0,
+        "benefits": {
+          "oneTimePayment": 0
+        }
+      }
+    ],
+    "smallBusinessBenefit": {
+      "label": "소상공인혜택",
+      "quantity": 1,
+      "unitPrice": 0,
+      "basePrice": 0,
+      "prices": {},
+      "price": 0,
+      "oneTimePayment": 0,
+      "benefits": {
+        "oneTimePayment": 0
+      }
+    }
+  },
+  "manualInputs": {},
+  "selectedExtraBenefit": "",
+  "customGiftCard": 0,
+  "customCash": 0,
+  "isCardDiscountApplied": false,
+  "isBusiness": false,
+  "showSticker": true,
+  "stickerText": "\n\n\n \n\n\n\n\n\n\n\n\n\n\n\n \n",
+  "excludedCombos": [],
+  "originalTotal": 331050,
+  "discountTotal": -5500,
+  "finalTotal": 325550,
+  "productBenefits": {
+    "giftCard": 0,
+    "cash": 600000,
+    "items": [
+      "CCTV 현금사은품 50,000원",
+      "후불형 (x10) 현금사은품 500,000원",
+      "알림판(15인치) 현금사은품 50,000원"
+    ],
+    "productBenefits": [
+      {
+        "title": "CCTV",
+        "label": "I-view",
+        "service": "cctv",
+        "giftCard": 0,
+        "cash": 50000
+      },
+      {
+        "title": "후불형",
+        "service": "highorder",
+        "label": "후불형 (x10)",
+        "giftCard": 0,
+        "cash": 500000
+      },
+      {
+        "title": "알림판(15인치)",
+        "service": "highorder",
+        "label": "알림판(15인치)",
+        "giftCard": 0,
+        "cash": 50000
+      }
+    ]
+  },
+  "extraBenefits": {
+    "giftCard": 0,
+    "cash": 30000,
+    "productBenefits": [
+      {
+        "key": "genieone_smallBusinessBenefit",
+        "title": "지니원 소상공인 혜택",
+        "service": "benefit",
+        "giftCard": 0,
+        "cash": 30000
+      }
+    ]
+  },
+  "comboDiscount": null,
+  "cardDiscounts": null
+}

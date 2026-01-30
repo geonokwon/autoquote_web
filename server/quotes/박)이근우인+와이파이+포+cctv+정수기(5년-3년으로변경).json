@@ -1,0 +1,197 @@
+{
+  "title": "박)이근우 인+와이파이+포+cctv+ 정수기(5년-3년으로 변경)",
+  "customerName": "이근우 님",
+  "date": "[25.09.08]",
+  "timestamp": 1757313763036,
+  "selectedOptions": {
+    "internet": [
+      {
+        "label": "100M",
+        "quantity": 1,
+        "unitPrice": 22000,
+        "basePrice": 22000,
+        "prices": {},
+        "price": 22000,
+        "oneTimePayment": 0,
+        "benefits": {
+          "oneTimePayment": 0
+        }
+      }
+    ],
+    "wifi": {
+      "label": "기본",
+      "quantity": 1,
+      "unitPrice": 1100,
+      "basePrice": 1100,
+      "prices": {},
+      "price": 1100,
+      "oneTimePayment": 0,
+      "benefits": {
+        "oneTimePayment": 0
+      }
+    },
+    "cctv": [
+      {
+        "label": "직접입력",
+        "quantity": 1,
+        "unitPrice": 35000,
+        "basePrice": 0,
+        "prices": {},
+        "price": 35000,
+        "oneTimePayment": 0,
+        "customLabel": "텔레캅 팀장님 현장견적 금액참조",
+        "benefits": {
+          "oneTimePayment": 0
+        }
+      }
+    ],
+    "pos": [
+      {
+        "label": "포스기세트 올인원(렌탈)",
+        "quantity": 1,
+        "unitPrice": 19800,
+        "basePrice": 19800,
+        "prices": {},
+        "price": 19800,
+        "oneTimePayment": 0,
+        "benefits": {
+          "oneTimePayment": 0
+        }
+      },
+      {
+        "label": "주방프린터(렌탈)",
+        "quantity": 1,
+        "unitPrice": 3300,
+        "basePrice": 3300,
+        "prices": {},
+        "price": 3300,
+        "oneTimePayment": 0,
+        "benefits": {
+          "oneTimePayment": 0
+        }
+      }
+    ],
+    "water": [
+      {
+        "label": "쿠쿠 3년 (스텐드 탁상형 공용)",
+        "quantity": 1,
+        "unitPrice": 19900,
+        "basePrice": 19900,
+        "prices": {},
+        "price": 19900,
+        "oneTimePayment": 0,
+        "benefits": {
+          "oneTimePayment": 0
+        }
+      }
+    ],
+    "smallBusinessBenefit": {
+      "label": "소상공인혜택",
+      "quantity": 1,
+      "unitPrice": 0,
+      "basePrice": 0,
+      "prices": {},
+      "price": 0,
+      "oneTimePayment": 0,
+      "benefits": {
+        "oneTimePayment": 0
+      }
+    },
+    "manual_discount": [],
+    "extraBenefit": [
+      {
+        "label": "cctv 3대가입시 지원금",
+        "quantity": 1,
+        "unitPrice": 0,
+        "prices": {},
+        "price": 0,
+        "oneTimePayment": 0,
+        "customLabel": "cctv 3대가입시 지원금",
+        "benefits": {
+          "giftCard": 0,
+          "cash": 50000
+        }
+      },
+      {
+        "tmpId": 1756275019943,
+        "label": "인터넷+ cctv묶음혜택",
+        "quantity": 1,
+        "unitPrice": 0,
+        "basePrice": 0,
+        "prices": {},
+        "price": 0,
+        "oneTimePayment": 0,
+        "customLabel": "인터넷+ cctv묶음혜택",
+        "benefits": {
+          "giftCard": 0,
+          "cash": 30000
+        }
+      }
+    ]
+  },
+  "manualInputs": {},
+  "selectedExtraBenefit": "",
+  "customGiftCard": 0,
+  "customCash": 0,
+  "isCardDiscountApplied": false,
+  "isBusiness": false,
+  "showSticker": true,
+  "stickerText": "<필수 숙지 사항>\n■ 본 견적서는 고객님께만 제공되는 전용자료로, 외부 공유 시 법적 책임이 발생할 수 있으니 유의 부탁드립니다.\n■ 사은품은 서비스개통후 익주 금요일 18시 이전에 정산후 문자안내 드립니다.\n■ 인터넷 :설치비는 일회성으로 첫달 요금에 합산되어 청구\n■ CCTV 난공사시 청구 : 층간공사, 벽타공, 선로길이 30M 이상 , 층고 3M 이상\n☎ 대표번호 1899-6484 (문자가능)",
+  "excludedCombos": [],
+  "originalTotal": 101100,
+  "discountTotal": 0,
+  "finalTotal": 101100,
+  "productBenefits": {
+    "giftCard": 40000,
+    "cash": 130000,
+    "items": [
+      "인터넷 상품권 40,000원",
+      "인터넷 현금사은품 50,000원",
+      "cctv 3대가입시 지원금 현금사은품 50,000원",
+      "인터넷+ cctv묶음혜택 현금사은품 30,000원"
+    ],
+    "productBenefits": [
+      {
+        "title": "인터넷",
+        "label": "100M",
+        "service": "internet",
+        "giftCard": 40000,
+        "cash": 50000
+      },
+      {
+        "title": "cctv 3대가입시 지원금",
+        "service": "extraBenefit",
+        "giftCard": 0,
+        "cash": 50000
+      },
+      {
+        "title": "인터넷+ cctv묶음혜택",
+        "service": "extraBenefit",
+        "giftCard": 0,
+        "cash": 30000
+      }
+    ]
+  },
+  "extraBenefits": {
+    "giftCard": 0,
+    "cash": 66000,
+    "productBenefits": [
+      {
+        "key": "genieone_internet",
+        "title": "지니원혜택 (인터넷설치지원)",
+        "service": "benefit",
+        "giftCard": 0,
+        "cash": 36000
+      },
+      {
+        "key": "genieone_smallBusinessBenefit",
+        "title": "지니원 소상공인 혜택",
+        "service": "benefit",
+        "giftCard": 0,
+        "cash": 30000
+      }
+    ]
+  },
+  "comboDiscount": null,
+  "cardDiscounts": null
+}

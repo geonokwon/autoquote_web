@@ -1,0 +1,128 @@
+{
+  "title": "홍)인2_티14_올레4",
+  "customerName": "",
+  "date": "[25.09.08]",
+  "timestamp": 1757312196185,
+  "selectedOptions": {
+    "tv": {
+      "label": "직접입력",
+      "quantity": 1,
+      "unitPrice": 174240,
+      "basePrice": 0,
+      "prices": {},
+      "price": 174240,
+      "oneTimePayment": 0,
+      "customLabel": "기본TV라이트(올인원셋탑)*2대 + 추가TV라이트(올인원셋탑)*12대",
+      "benefits": {
+        "oneTimePayment": 0
+      }
+    },
+    "internet": [
+      {
+        "label": "직접입력",
+        "quantity": 1,
+        "unitPrice": 49500,
+        "basePrice": 0,
+        "prices": {},
+        "price": 49500,
+        "oneTimePayment": 0,
+        "customLabel": "500M+패밀리 500M",
+        "benefits": {
+          "oneTimePayment": 0
+        }
+      }
+    ],
+    "wifi": {
+      "label": "직접입력",
+      "quantity": 1,
+      "unitPrice": 2200,
+      "basePrice": 0,
+      "prices": {},
+      "price": 2200,
+      "oneTimePayment": 0,
+      "customLabel": "와이파이2대",
+      "benefits": {
+        "oneTimePayment": 0
+      }
+    },
+    "cctv": [
+      {
+        "label": "구매형 200만",
+        "quantity": 4,
+        "unitPrice": 27500,
+        "basePrice": 27500,
+        "prices": {
+          "2": 33000,
+          "3": 38500,
+          "4": 44000,
+          "5": 55000,
+          "6": 60500,
+          "7": 66000,
+          "8": 71500
+        },
+        "price": 44000,
+        "oneTimePayment": 0,
+        "benefits": {
+          "oneTimePayment": 0
+        }
+      }
+    ],
+    "extraBenefit": [
+      {
+        "label": "인터넷+TV지원금",
+        "quantity": 1,
+        "unitPrice": 0,
+        "prices": {},
+        "price": 0,
+        "oneTimePayment": 0,
+        "customLabel": "인터넷+TV지원금",
+        "benefits": {
+          "giftCard": 0,
+          "cash": 2100000
+        }
+      }
+    ]
+  },
+  "manualInputs": {},
+  "selectedExtraBenefit": "",
+  "customGiftCard": 0,
+  "customCash": 0,
+  "isCardDiscountApplied": false,
+  "isBusiness": false,
+  "showSticker": true,
+  "stickerText": "<필수 숙지 사항>\n■ 인터넷+TV설치비 총 297,200원 후납\n■ 본 견적서는 고객님께만 제공되는 전용자료로, 외부 공유 시 법적 책임이 발생할 수 있으니 유의 부탁드립니다.\n■ 사은품은 서비스개통후 익주 금요일 18시 이전에 정산후 문자안내 드립니다.\n■ CCTV 난공사시 청구 : 층간공사, 벽타공, 선로길이 30M 이상 , 층고 3M 이상\n☎ 대표번호 1899-6484 (문자가능)",
+  "excludedCombos": [],
+  "originalTotal": 269940,
+  "discountTotal": 0,
+  "finalTotal": 269940,
+  "productBenefits": {
+    "giftCard": 0,
+    "cash": 2150000,
+    "items": [
+      "CCTV 현금사은품 50,000원",
+      "인터넷+TV지원금 현금사은품 2,100,000원"
+    ],
+    "productBenefits": [
+      {
+        "title": "CCTV",
+        "label": "구매형 200만",
+        "service": "cctv",
+        "giftCard": 0,
+        "cash": 50000
+      },
+      {
+        "title": "인터넷+TV지원금",
+        "service": "extraBenefit",
+        "giftCard": 0,
+        "cash": 2100000
+      }
+    ]
+  },
+  "extraBenefits": {
+    "giftCard": 0,
+    "cash": 0,
+    "productBenefits": []
+  },
+  "comboDiscount": null,
+  "cardDiscounts": null
+}

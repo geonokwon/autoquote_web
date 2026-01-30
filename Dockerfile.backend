@@ -1,0 +1,17 @@
+FROM node:20
+
+# Create app directory
+WORKDIR /app
+
+# Copy package manifest and install only production deps
+COPY package*.json ./
+RUN npm install --production
+
+# Copy rest of the source code
+COPY . .
+
+# Expose API port
+EXPOSE 4000
+
+# Run the API server
+CMD ["node", "server/server.js"] 

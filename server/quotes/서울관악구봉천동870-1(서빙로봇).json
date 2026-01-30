@@ -1,0 +1,307 @@
+{
+  "title": "서울 관악구 봉천동 870-1 (서빙로봇)",
+  "customerName": "",
+  "date": "[25.06.30]",
+  "timestamp": 1751260211988,
+  "selectedOptions": {
+    "internet": [
+      {
+        "label": "500M",
+        "quantity": 1,
+        "unitPrice": 33000,
+        "basePrice": 33000,
+        "prices": {},
+        "price": 33000,
+        "oneTimePayment": 0,
+        "benefits": {
+          "oneTimePayment": 0
+        }
+      },
+      {
+        "label": "1G",
+        "quantity": 1,
+        "unitPrice": 38500,
+        "basePrice": 38500,
+        "prices": {},
+        "price": 38500,
+        "oneTimePayment": 0,
+        "benefits": {
+          "oneTimePayment": 0
+        }
+      }
+    ],
+    "wifi": {
+      "label": "기본",
+      "quantity": 2,
+      "unitPrice": 1100,
+      "basePrice": 1100,
+      "prices": {},
+      "price": 2200,
+      "oneTimePayment": 0,
+      "benefits": {
+        "oneTimePayment": 0
+      }
+    },
+    "phone": [
+      {
+        "label": "표준(일반)",
+        "quantity": 1,
+        "unitPrice": 4400,
+        "basePrice": 4400,
+        "prices": {},
+        "price": 4400,
+        "oneTimePayment": 0,
+        "benefits": {
+          "oneTimePayment": 0
+        }
+      }
+    ],
+    "cctv": [
+      {
+        "label": "구매형 200만",
+        "quantity": 6,
+        "unitPrice": 27500,
+        "basePrice": 27500,
+        "prices": {
+          "2": 33000,
+          "3": 38500,
+          "4": 44000,
+          "5": 55000,
+          "6": 60500,
+          "7": 66000,
+          "8": 71500
+        },
+        "price": 60500,
+        "oneTimePayment": 0,
+        "benefits": {
+          "oneTimePayment": 0
+        }
+      }
+    ],
+    "pos": [
+      {
+        "label": "포스기세트(지니원 대납)",
+        "quantity": 2,
+        "unitPrice": 0,
+        "basePrice": 0,
+        "prices": {},
+        "price": 0,
+        "oneTimePayment": 0,
+        "benefits": {
+          "oneTimePayment": 0
+        }
+      }
+    ],
+    "highorder": [
+      {
+        "label": "후불형",
+        "quantity": 50,
+        "unitPrice": 22000,
+        "basePrice": 22000,
+        "prices": {},
+        "price": 1100000,
+        "oneTimePayment": 0,
+        "benefits": {
+          "oneTimePayment": 0
+        }
+      }
+    ],
+    "smallBusinessBenefit": {
+      "label": "소상공인혜택",
+      "quantity": 1,
+      "unitPrice": 0,
+      "basePrice": 0,
+      "prices": {},
+      "price": 0,
+      "oneTimePayment": 0,
+      "benefits": {
+        "oneTimePayment": 0
+      }
+    },
+    "highorder_posOption_x": {
+      "label": "하이오더",
+      "quantity": 1,
+      "unitPrice": 0,
+      "basePrice": 0,
+      "prices": {},
+      "price": 0,
+      "oneTimePayment": 0,
+      "benefits": {
+        "oneTimePayment": 0
+      }
+    },
+    "water": [
+      {
+        "label": "아이콘 직수(3년)-주기6개월",
+        "quantity": 1,
+        "unitPrice": 32900,
+        "basePrice": 32900,
+        "prices": {},
+        "price": 32900,
+        "oneTimePayment": 0,
+        "benefits": {
+          "oneTimePayment": 0
+        }
+      }
+    ],
+    "servingbot": [
+      {
+        "label": "1세대 판매형",
+        "quantity": 4,
+        "unitPrice": 350000,
+        "basePrice": 350000,
+        "prices": {},
+        "price": 1400000,
+        "oneTimePayment": 0,
+        "benefits": {
+          "oneTimePayment": 0
+        }
+      }
+    ]
+  },
+  "manualInputs": {},
+  "selectedExtraBenefit": "",
+  "customGiftCard": 0,
+  "customCash": 0,
+  "isCardDiscountApplied": false,
+  "isBusiness": false,
+  "showSticker": true,
+  "stickerText": "",
+  "excludedCombos": [],
+  "originalTotal": 2671500,
+  "discountTotal": -11000,
+  "finalTotal": 2660500,
+  "productBenefits": {
+    "giftCard": 90000,
+    "cash": 3900000,
+    "items": [
+      "인터넷 상품권 40,000원",
+      "인터넷 현금사은품 100,000원",
+      "인터넷 상품권 50,000원",
+      "인터넷 현금사은품 100,000원",
+      "CCTV 현금사은품 100,000원",
+      "추가지원금 현금사은품 500,000원",
+      "정수기 현금사은품 100,000원",
+      "서빙로봇 현금사은품 500,000원",
+      "후불형 (x50) 현금사은품 2,500,000원"
+    ],
+    "productBenefits": [
+      {
+        "title": "인터넷",
+        "label": "500M",
+        "service": "internet",
+        "giftCard": 40000,
+        "cash": 100000
+      },
+      {
+        "title": "인터넷",
+        "label": "1G",
+        "service": "internet",
+        "giftCard": 50000,
+        "cash": 100000
+      },
+      {
+        "title": "CCTV",
+        "label": "구매형 200만",
+        "service": "cctv",
+        "giftCard": 0,
+        "cash": 100000
+      },
+      {
+        "title": "추가지원금",
+        "service": "highorder_posOption_x",
+        "giftCard": 0,
+        "cash": 500000
+      },
+      {
+        "title": "정수기",
+        "label": "아이콘 직수(3년)-주기6개월",
+        "service": "water",
+        "giftCard": 0,
+        "cash": 100000
+      },
+      {
+        "title": "서빙로봇",
+        "label": "1세대 판매형",
+        "service": "servingbot",
+        "giftCard": 0,
+        "cash": 500000
+      },
+      {
+        "title": "후불형",
+        "service": "highorder",
+        "label": "후불형 (x50)",
+        "giftCard": 0,
+        "cash": 2500000
+      }
+    ]
+  },
+  "extraBenefits": {
+    "giftCard": 0,
+    "cash": 356000,
+    "productBenefits": [
+      {
+        "key": "genieone_internet_highorder",
+        "title": "지니원혜택 (인터넷+하이오더)",
+        "service": "benefit",
+        "giftCard": 0,
+        "cash": 100000
+      },
+      {
+        "key": "genieone_internet_servingbot",
+        "title": "지니원혜택 (인터넷+서빙로봇)",
+        "service": "benefit",
+        "giftCard": 0,
+        "cash": 100000
+      },
+      {
+        "key": "genieone_internet",
+        "title": "지니원혜택 (인터넷설치지원)",
+        "service": "benefit",
+        "giftCard": 0,
+        "cash": 36000
+      },
+      {
+        "key": "genieone_internet_phone",
+        "title": "지니원혜택 (인터넷+전화)",
+        "service": "benefit",
+        "giftCard": 0,
+        "cash": 30000
+      },
+      {
+        "key": "genieone_internet_cctv",
+        "title": "지니원혜택 (인터넷+CCTV)",
+        "service": "benefit",
+        "giftCard": 0,
+        "cash": 30000
+      },
+      {
+        "key": "genieone_internet_water",
+        "title": "지니원혜택 (인터넷+정수기)",
+        "service": "benefit",
+        "giftCard": 0,
+        "cash": 30000
+      },
+      {
+        "key": "genieone_smallBusinessBenefit",
+        "title": "지니원 소상공인 혜택",
+        "service": "benefit",
+        "giftCard": 0,
+        "cash": 30000
+      }
+    ]
+  },
+  "comboDiscount": {
+    "monthlyDiscount": 11000,
+    "benefits": {
+      "title": "결합 할인",
+      "giftCard": 0,
+      "cash": 0,
+      "items": [
+        "매장솔루션 할인 (하이오더) 5,500원",
+        "으랏차차 할인 (인터넷 + 하이오더) 5,500원"
+      ]
+    }
+  },
+  "cardDiscounts": null
+}
